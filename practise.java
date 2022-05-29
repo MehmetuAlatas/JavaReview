@@ -22,6 +22,8 @@ public class StringBuilder1 {
         //1.Way:
         StringBuilder sb1 = new StringBuilder("Veli");
         System.out.println(sb1);//Veli
+         System.out.println(sb1);//Veli
+         System.out.println(sb1);//Veli
 
         //2.Way:
         StringBuilder sb2 = new StringBuilder();
