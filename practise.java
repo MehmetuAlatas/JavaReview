@@ -11,7 +11,7 @@ public class StringBuilder1 {
      */
 
     public static void main(String[] args) {
-        System.out.println("thats it");
+        System.out.println("thats it"); System.out.println("thats it");
 
         String s = "Ali";
         s = s + "!";
